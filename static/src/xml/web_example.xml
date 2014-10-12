@@ -7,5 +7,6 @@
     <p class="oe_web_example_stop">
         <button type="button">Stop</button>
     </p>
+    <ol class="oe_web_example_saved"></ol>
 </div>
 </templates>

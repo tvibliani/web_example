@@ -1,0 +1,6 @@
+*.pyc
+*.rej
+*.diff
+*.orig
+*.swp
+*.~

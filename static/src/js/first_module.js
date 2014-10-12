@@ -1,2 +1,4 @@
 // static/src/js/first_module.js
-console.log("Debug statement: file loaded");
+openerp.web_example = function (instance) {
+    console.log("Module loaded");
+};
